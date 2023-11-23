@@ -1,4 +1,3 @@
-import React from "react";
 import { BsFillCartFill } from "react-icons/bs";
 const Carrito = () => {
   return (
